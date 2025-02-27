@@ -1,5 +1,5 @@
 {
-  "name": "ng6-file-man",
+  "name": "ng6-file-man-custom",
   "version": "6.0.3",
   "description": "Angular File Manager component",
   "keywords": [
@@ -22,8 +22,7 @@
     "Igor Kvasnicka <igor.kvasnicka@gmail.com>",
     "Dinh Nguyen Tien <dinh@annotation.sk (https://github.com/Mr-SvaRoq)>"
   ],
-  "scripts": {
-  },
+  "scripts": {},
   "peerDependencies": {
     "@angular/common": "^15.2.8",
     "@angular/core": "^15.2.8",
